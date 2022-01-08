@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>博客搭建</title>
+      <link href="/2022/01/08/bo-ke-da-jian/"/>
+      <url>/2022/01/08/bo-ke-da-jian/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Blog-Make"><a href="#Blog-Make" class="headerlink" title="Blog Make"></a>Blog Make</h1><h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2><p><a href="https://godweiyang.com/2018/04/13/hexo-blog/#toc-heading-1">Hexo 与 Github搭建静态网页</a><br><a href="https://blog.csdn.net/u010075335/article/details/82861322">Hexo使用 1</a><br><a href="https://hans2936.github.io/2018/06/06/HexoLog/">Hexo使用 2</a></p><h2 id="Hexo"><a href="#Hexo" class="headerlink" title="Hexo"></a>Hexo</h2><blockquote><p>Offical Site: <a href="https://hexo.io/">https://hexo.io/</a><br>说明(illustration)：hexo是一个用来生成静态界面的框架，使用hexo，你就可以直接使用mark down 来写文章，而不用关心前端样式的展现。<br>即 *.md -(hexo)-&gt; *.html -(github)-&gt; update website</p></blockquote><p>hexo 命令<br><code>hexo g</code> 生成/public 文件夹，里面是网站<br><code>hexo d</code> 把这个网站文件夹推送到服务器<br><code>hexo clean</code> 删除网站文件夹<br><code>hexo s</code> 本地查看效果<br><code>hexo new page "file name"</code> 创建页面，会在 source/file name 里产生文件</p><p><a href="https://blog.csdn.net/cpongo3/article/details/98633198?utm_medium=distribute.pc_aggpage_search_result.none-task-blog-2~aggregatepage~first_rank_ecpm_v1~rank_v31_ecpm-1-98633198.pc_agg_new_rank&amp;utm_term=hexo%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E7%9A%84deploy&amp;spm=1000.2123.3001.4430">Hexo配置文件<code>_config.yml</code>部分参数介绍</a></p><blockquote><p>SEO（Search Engine Optimization）：汉译为搜索引擎优化。是一种方式：利用搜索引擎的规则提高网站在有关搜索引擎内的自然排名。目的是：为网站提供生态式的自我营销解决方案，让其在行业内占据领先地位，获得品牌收益；SEO包含站外SEO和站内SEO两方面；为了从搜索引擎中获得更多的免费流量，从网站结构、内容建设方案、用户互动传播、页面等角度进行合理规划，还会使搜索引擎中显示的网站相关信息对用户来说更具有吸引力。</p></blockquote><h2 id="Theme-matery"><a href="#Theme-matery" class="headerlink" title="Theme: matery"></a>Theme: matery</h2><p><a href="https://github.com/blinkfox/hexo-theme-matery/blob/develop/README_CN.md">使用文档</a><br><a href="https://github.com/blinkfox/blinkfox.github.io">官方样例</a><br><a href="https://github.com/godweiyang/hexo-theme-sungod">衍生样例</a></p><h2 id="Live2d"><a href="#Live2d" class="headerlink" title="Live2d"></a>Live2d</h2><p><a href="https://www.dazhuanlan.com/ixiaogi/topics/948983">An idea</a></p><h2 id="Extra-tools"><a href="#Extra-tools" class="headerlink" title="Extra tools"></a>Extra tools</h2><p><a href="https://fontawesome.com/">矢量图标提供</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 计算机基础 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+            <tag> 博客 </tag>
+            
+            <tag> Github </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2022/01/07/hello-world/"/>
       <url>/2022/01/07/hello-world/</url>
@@ -11,6 +40,18 @@
         <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo server<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo generate<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo deploy<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
       
       
+      <categories>
+          
+          <category> 计算机基础 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+        </tags>
       
     </entry>
     
