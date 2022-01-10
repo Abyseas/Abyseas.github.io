@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>常用软件</title>
+      <link href="/2022/01/10/chang-yong-ruan-jian/"/>
+      <url>/2022/01/10/chang-yong-ruan-jian/</url>
+      
+        <content type="html"><![CDATA[<h2 id="Coding-IDE"><a href="#Coding-IDE" class="headerlink" title="Coding IDE"></a>Coding IDE</h2><ul><li><a href="https://www.jetbrains.com/">Jetbrain</a>全家桶<ul><li>Clion</li><li>Idea</li><li>Pycharm</li><li>And so on</li></ul></li><li>CodeBlocks</li></ul><h2 id="Text-Edit"><a href="#Text-Edit" class="headerlink" title="Text Edit"></a>Text Edit</h2><ul><li>Typora</li><li>Atom</li><li>Sublime_text</li><li>Notepad++</li></ul><h2 id="Math"><a href="#Math" class="headerlink" title="Math"></a>Math</h2><ul><li>Octave</li><li>Matlab</li></ul><h2 id="虚拟机"><a href="#虚拟机" class="headerlink" title="虚拟机"></a>虚拟机</h2><ul><li>VMware</li></ul><h2 id="远程连接"><a href="#远程连接" class="headerlink" title="远程连接"></a>远程连接</h2><ul><li>MobaXterm</li><li>Vncviewer</li><li>WinSCP</li><li>FinalShell</li></ul><h2 id="VPN"><a href="#VPN" class="headerlink" title="VPN"></a>VPN</h2><ul><li><a href="https://www.jetbrains.com/">IBCN</a></li></ul><h2 id="Misc-Tool"><a href="#Misc-Tool" class="headerlink" title="Misc Tool"></a>Misc Tool</h2><ul><li>Everything</li><li>Snipaste</li><li>copytranslator</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 计算机基础 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 软件 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>博客搭建</title>
       <link href="/2022/01/08/bo-ke-da-jian/"/>
       <url>/2022/01/08/bo-ke-da-jian/</url>
@@ -20,9 +45,9 @@
       
         <tags>
             
-            <tag> 博客 </tag>
-            
             <tag> Hexo </tag>
+            
+            <tag> 博客 </tag>
             
             <tag> Github </tag>
             
