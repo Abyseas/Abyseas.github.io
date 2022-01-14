@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>假面饭店</title>
+      <link href="/2022/01/14/jia-mian-fan-dian/"/>
+      <url>/2022/01/14/jia-mian-fan-dian/</url>
+      
+        <content type="html"><![CDATA[<h3 id="主要人物"><a href="#主要人物" class="headerlink" title="主要人物"></a>主要人物</h3><p>搜查一课刑警新田浩介，饭店前台小姐山岸尚美。</p><h3 id="故事主线"><a href="#故事主线" class="headerlink" title="故事主线"></a>故事主线</h3><p>三起谋杀案，手法像是连环杀人案，现场留下的数字暗示下一起事件的位置。警方发现第四起谋杀的地点——饭店，决定潜入其中，防止凶手行凶。看似有联系的四起谋杀，实则是真凶为了防止前男友和山岸尚美的死亡让自己被怀疑，因此策划了这场连环案。</p><h3 id="原文摘录"><a href="#原文摘录" class="headerlink" title="原文摘录"></a>原文摘录</h3><blockquote><p>要记住，只要被款待一次，他们就会觉得一直是这种待遇，否则就会有怨言。这就是百姓。</p></blockquote><p>失去本不属于自己的东西，还要将过错归咎到别人头上，这是人的劣根性，亦是所谓的理所当然。</p><blockquote><p>以前一位前辈对我说过，永远不要和客人做无谓的讨价还价。<br>饭店人员一边想象着客人的本来面目，一边还必须要尊重他们的假面具，决不能试图摘下来。因为某种程度上，客人是为了享受面具舞会才来的饭店。</p></blockquote><p>不可否认，山岸尚美这位前台小姐是一名十分优秀的饭店员工，无论何时她都展露着作为高级饭店员工的行为举止。因为曾经受过这家饭店的帮助，爱上这家饭店，毕业后坚守着这份想法，将其贯彻到自己日后整个生活中，尤为难能可贵。</p><h3 id="感触"><a href="#感触" class="headerlink" title="感触"></a>感触</h3><p>故事中的山岸尚美，为了保护一名客人的安全，招致另一名客人的怨恨；新田浩介，高中时为了给朋友撑场面，不受到众人排挤，让实习老师下不了台，导致后面被其百般刁难。生活中，没来由的，因细小琐碎的事而招致他人的怨恨，这是再为正常不过的了，我们要做到的不是在事后后悔，而是在做的时候就要考虑清楚：我当时那么做，是否是最正确，最符合我自己理念的做法，无论后面发生什么也决不后悔。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 随笔 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 东野圭吾 </tag>
+            
+            <tag> 推理 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>常用软件</title>
       <link href="/2022/01/10/chang-yong-ruan-jian/"/>
       <url>/2022/01/10/chang-yong-ruan-jian/</url>
@@ -33,7 +60,7 @@
       <link href="/2022/01/08/bo-ke-da-jian/"/>
       <url>/2022/01/08/bo-ke-da-jian/</url>
       
-        <content type="html"><![CDATA[<h1 id="Blog-Make"><a href="#Blog-Make" class="headerlink" title="Blog Make"></a>Blog Make</h1><h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2><p><a href="https://godweiyang.com/2018/04/13/hexo-blog/#toc-heading-1">Hexo 与 Github搭建静态网页</a><br><a href="https://blog.csdn.net/u010075335/article/details/82861322">Hexo使用 1</a><br><a href="https://hans2936.github.io/2018/06/06/HexoLog/">Hexo使用 2</a></p><h2 id="Hexo"><a href="#Hexo" class="headerlink" title="Hexo"></a>Hexo</h2><blockquote><p>Offical Site: <a href="https://hexo.io/">https://hexo.io/</a><br>说明(illustration)：hexo是一个用来生成静态界面的框架，使用hexo，你就可以直接使用mark down 来写文章，而不用关心前端样式的展现。<br>即 *.md -(hexo)-&gt; *.html -(github)-&gt; update website</p></blockquote><p>hexo 命令<br><code>hexo g</code> 生成/public 文件夹，里面是网站<br><code>hexo d</code> 把这个网站文件夹推送到服务器<br><code>hexo clean</code> 删除网站文件夹<br><code>hexo s</code> 本地查看效果<br><code>hexo new page "file name"</code> 创建页面，会在 source/file name 里产生文件</p><p><a href="https://blog.csdn.net/cpongo3/article/details/98633198?utm_medium=distribute.pc_aggpage_search_result.none-task-blog-2~aggregatepage~first_rank_ecpm_v1~rank_v31_ecpm-1-98633198.pc_agg_new_rank&amp;utm_term=hexo%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E7%9A%84deploy&amp;spm=1000.2123.3001.4430">Hexo配置文件<code>_config.yml</code>部分参数介绍</a></p><blockquote><p>SEO（Search Engine Optimization）：汉译为搜索引擎优化。是一种方式：利用搜索引擎的规则提高网站在有关搜索引擎内的自然排名。目的是：为网站提供生态式的自我营销解决方案，让其在行业内占据领先地位，获得品牌收益；SEO包含站外SEO和站内SEO两方面；为了从搜索引擎中获得更多的免费流量，从网站结构、内容建设方案、用户互动传播、页面等角度进行合理规划，还会使搜索引擎中显示的网站相关信息对用户来说更具有吸引力。</p></blockquote><h2 id="Theme-matery"><a href="#Theme-matery" class="headerlink" title="Theme: matery"></a>Theme: matery</h2><p><a href="https://github.com/blinkfox/hexo-theme-matery/blob/develop/README_CN.md">使用文档</a><br><a href="https://github.com/blinkfox/blinkfox.github.io">官方样例</a><br><a href="https://github.com/godweiyang/hexo-theme-sungod">衍生样例</a></p><h2 id="Live2d"><a href="#Live2d" class="headerlink" title="Live2d"></a>Live2d</h2><p><a href="https://www.dazhuanlan.com/ixiaogi/topics/948983">An idea</a></p><h2 id="Extra-tools"><a href="#Extra-tools" class="headerlink" title="Extra tools"></a>Extra tools</h2><p><a href="https://fontawesome.com/">矢量图标提供</a></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="Blog-Make"><a href="#Blog-Make" class="headerlink" title="Blog Make"></a>Blog Make</h1><h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2><p><a href="https://godweiyang.com/2018/04/13/hexo-blog/#toc-heading-1">Hexo 与 Github搭建静态网页</a><br><a href="https://blog.csdn.net/u010075335/article/details/82861322">Hexo使用 1</a><br><a href="https://hans2936.github.io/2018/06/06/HexoLog/">Hexo使用 2</a></p><h2 id="Hexo"><a href="#Hexo" class="headerlink" title="Hexo"></a>Hexo</h2><blockquote><p>Offical Site: <a href="https://hexo.io/">https://hexo.io/</a><br>说明(illustration)：hexo是一个用来生成静态界面的框架，使用hexo，你就可以直接使用mark down 来写文章，而不用关心前端样式的展现。<br>即 *.md -(hexo)-&gt; *.html -(github)-&gt; update website</p></blockquote><p>hexo 命令<br><code>hexo g</code> 生成/public 文件夹，里面是网站<br><code>hexo d</code> 把这个网站文件夹推送到服务器<br><code>hexo clean</code> 删除网站文件夹<br><code>hexo s</code> 本地查看效果<br><code>hexo new page "file name"</code> 创建页面，会在 source/file name 里产生文件</p><p><a href="https://blog.csdn.net/cpongo3/article/details/98633198?utm_medium=distribute.pc_aggpage_search_result.none-task-blog-2~aggregatepage~first_rank_ecpm_v1~rank_v31_ecpm-1-98633198.pc_agg_new_rank&amp;utm_term=hexo%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E7%9A%84deploy&amp;spm=1000.2123.3001.4430">Hexo配置文件<code>_config.yml</code>部分参数介绍</a></p><blockquote><p>SEO（Search Engine Optimization）：汉译为搜索引擎优化。是一种方式：利用搜索引擎的规则提高网站在有关搜索引擎内的自然排名。目的是：为网站提供生态式的自我营销解决方案，让其在行业内占据领先地位，获得品牌收益；SEO包含站外SEO和站内SEO两方面；为了从搜索引擎中获得更多的免费流量，从网站结构、内容建设方案、用户互动传播、页面等角度进行合理规划，还会使搜索引擎中显示的网站相关信息对用户来说更具有吸引力。</p></blockquote><h2 id="Theme-matery"><a href="#Theme-matery" class="headerlink" title="Theme: matery"></a>Theme: matery</h2><h3 id="参考文档"><a href="#参考文档" class="headerlink" title="参考文档"></a>参考文档</h3><p><a href="https://github.com/blinkfox/hexo-theme-matery/blob/develop/README_CN.md">使用文档</a><br><a href="https://github.com/blinkfox/blinkfox.github.io">官方样例</a><br><a href="https://github.com/godweiyang/hexo-theme-sungod">衍生样例</a></p><h3 id="存在的问题"><a href="#存在的问题" class="headerlink" title="存在的问题"></a>存在的问题</h3><ol><li>index页<code>subtitle</code>因为字数过多导致的换行</li><li>分类不支持多级分类，官方文档只建议一个文章一个分类<blockquote><p>categories     无     文章分类，本主题的分类表示宏观上大的分类，只建议一篇文章一个分类</p></blockquote></li></ol><h2 id="Live2d"><a href="#Live2d" class="headerlink" title="Live2d"></a>Live2d</h2><p><a href="https://www.dazhuanlan.com/ixiaogi/topics/948983">An idea</a></p><h2 id="Extra-tools"><a href="#Extra-tools" class="headerlink" title="Extra tools"></a>Extra tools</h2><p><a href="https://fontawesome.com/">矢量图标提供</a></p>]]></content>
       
       
       <categories>
